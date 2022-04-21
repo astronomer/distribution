@@ -180,7 +180,7 @@ github.com/yvasiyarov/gorelic
 # github.com/yvasiyarov/newrelic_platform_go v0.0.0-20140908184405-b21fdbd4370f
 ## explicit
 github.com/yvasiyarov/newrelic_platform_go
-# golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+# golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
 ## explicit
 golang.org/x/crypto/acme
 golang.org/x/crypto/acme/autocert
